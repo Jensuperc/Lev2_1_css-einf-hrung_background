@@ -1,0 +1,50 @@
+main section section {
+    background-image: url(https://www.w3schools.com/css/gradient_bg_vertical.png);
+    background-repeat: repeat-y;
+    background-size: 700px;
+    max-width: 700px;
+}
+
+main section section p {
+    max-width: 600px;
+    max-height: 100px;
+    color: black;
+}
+
+main section section h1 {
+    color: black;
+    font-size: 30px;
+
+
+}
+
+main section section h2 {
+    color: black;
+    margin: 0;
+
+}
+
+main section article {
+    background-image: url(https://picsum.photos/300/200);
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: 350px;
+    max-width: 700px;
+    max-height: 160px;
+    color: transparent;
+}
+
+main section article p {
+    max-width: 700px;
+    color: black;
+}
+
+main section article h1 {
+    color: black;
+    font-size: 30px;
+    margin-top: 0;
+}
+
+main section article h2 {
+    color: black;
+}
